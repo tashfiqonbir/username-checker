@@ -12,3 +12,8 @@ This tool is for educational and research purposes only. Use responsibly.
 ### 🛠️ Installation
 ```bash
 pip install requests colorama
+```
+
+### 🚀 Usage
+```bash
+python username_checker.py yourusername

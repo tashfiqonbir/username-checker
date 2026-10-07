@@ -17,5 +17,6 @@ pip install requests colorama
 ### 🚀 Usage
 ```bash
 
+git clone https://github.com/tashfiqonbir/username-checker
 cd username-checker
 python username_checker.py yourusername

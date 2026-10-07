@@ -16,4 +16,6 @@ pip install requests colorama
 
 ### 🚀 Usage
 ```bash
+
+cd username-checker
 python username_checker.py yourusername

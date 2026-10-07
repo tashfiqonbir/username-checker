@@ -1,0 +1,55 @@
+username-checker $ python username_checker.py elonmusk
+
+🔍 Searching for: elonmusk
+Total Sites: 47
+
+--------------------------------------------------
+[FOUND] Instagram: https://instagram.com/elonmusk
+[FOUND] GitHub: https://github.com/elonmusk
+[FOUND] Twitter: https://twitter.com/elonmusk
+[FOUND] Facebook: https://facebook.com/elonmusk
+[FOUND] YouTube: https://youtube.com/@elonmusk
+[X] TikTok
+[X] Reddit
+[FOUND] Telegram: https://t.me/elonmusk
+[FOUND] Pinterest: https://pinterest.com/elonmusk
+[X] Snapchat
+[FOUND] Twitch: https://twitch.tv/elonmusk
+[FOUND] GitLab: https://gitlab.com/elonmusk
+[X] Bitbucket
+[FOUND] Docker: https://hub.docker.com/u/elonmusk
+[X] CodePen
+[X] StackOverflow
+[FOUND] Steam: https://steamcommunity.com/id/elonmusk
+[X] EpicGames
+[X] Xbox
+[X] PSN
+[X] Etsy
+[X] eBay
+[FOUND] PayPal: https://paypal.me/elonmusk
+[X] CashApp
+[X] Medium
+[X] Behance
+[X] Dribbble
+[FOUND] WordPress: https://elonmusk.wordpress.com
+[FOUND] Blogger: https://elonmusk.blogspot.com
+[X] Coinbase
+[X] Binance
+[FOUND] SoundCloud: https://soundcloud.com/elonmusk
+[FOUND] Spotify: https://open.spotify.com/user/elonmusk
+[FOUND] Vimeo: https://vimeo.com/elonmusk
+[X] Flickr
+[X] Tumblr
+[FOUND] VK: https://vk.com/elonmusk
+[FOUND] Weibo: https://weibo.com/elonmusk
+[FOUND] Badoo: https://badoo.com/profile/elonmusk
+[X] Flipkart
+[X] Amazon
+[FOUND] HackerNews: https://news.ycombinator.com/user?id=elonmusk
+[FOUND] Patreon: https://patreon.com/elonmusk
+[X] ProductHunt
+[X] AngelList
+[FOUND] About.me: https://about.me/elonmusk
+--------------------------------------------------
+
+✅ Found on 23/47 sites
